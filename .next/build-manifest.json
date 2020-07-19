@@ -1,0 +1,58 @@
+{
+  "devFiles": [],
+  "lowPriorityFiles": [
+    "static/_pfAsxBaS1aBkEVTnEkYb/_buildManifest.js",
+    "static/_pfAsxBaS1aBkEVTnEkYb/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.c6faae2799416a6da8e8.js",
+      "static/chunks/ec02d9841884e4cc09aa398ef7d10f9d13ef2d35.a1a019ce3158294c8679.js",
+      "static/runtime/main-d7695e22f93556148924.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.c6faae2799416a6da8e8.js",
+      "static/chunks/ec02d9841884e4cc09aa398ef7d10f9d13ef2d35.a1a019ce3158294c8679.js",
+      "static/runtime/main-d7695e22f93556148924.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.c6faae2799416a6da8e8.js",
+      "static/runtime/main-d7695e22f93556148924.js"
+    ],
+    "/_polyfills": [
+      "static/runtime/polyfills-788a592a52ba46c11fcc.js"
+    ],
+    "/blog": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.c6faae2799416a6da8e8.js",
+      "static/chunks/ec02d9841884e4cc09aa398ef7d10f9d13ef2d35.a1a019ce3158294c8679.js",
+      "static/runtime/main-d7695e22f93556148924.js"
+    ],
+    "/blog/[slug]": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.c6faae2799416a6da8e8.js",
+      "static/runtime/main-d7695e22f93556148924.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.c6faae2799416a6da8e8.js",
+      "static/chunks/ec02d9841884e4cc09aa398ef7d10f9d13ef2d35.a1a019ce3158294c8679.js",
+      "static/runtime/main-d7695e22f93556148924.js"
+    ],
+    "/user": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.c6faae2799416a6da8e8.js",
+      "static/chunks/ec02d9841884e4cc09aa398ef7d10f9d13ef2d35.a1a019ce3158294c8679.js",
+      "static/runtime/main-d7695e22f93556148924.js"
+    ],
+    "/user/[id]": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.c6faae2799416a6da8e8.js",
+      "static/chunks/ec02d9841884e4cc09aa398ef7d10f9d13ef2d35.a1a019ce3158294c8679.js",
+      "static/runtime/main-d7695e22f93556148924.js"
+    ]
+  }
+}

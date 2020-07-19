@@ -1,0 +1,1 @@
+{"ast":null,"code":"import data from '../../data/data.json';\n\nconst User = (req, res) => {\n  const {\n    id\n  } = req.query;\n  const userData = data.find(x => String(x.id) === String(id));\n  if (userData) res.status(200).json(userData);else res.status(404).end();\n  console.log(id);\n};\n\nexport default User;","map":null,"metadata":{},"sourceType":"module"}
